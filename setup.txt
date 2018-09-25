@@ -1,0 +1,6 @@
+echo "# TypescriptFundamentals" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/gebbz03/TypescriptFundamentals.git
+git push -u origin master
